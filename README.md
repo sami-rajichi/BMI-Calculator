@@ -1,16 +1,42 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+This repository contains my first flutter project : **BMI Calculator** (It's been made for learning purposes)
 
-## Getting Started
+What might make difference here, is that I integrate a customized [Radial Gauge](https://www.syncfusion.com/flutter-widgets/flutter-radial-gauge) widget (Built by [Syncfusion](https://www.syncfusion.com)). This widget lets you :
+- Display numerical values and ranges on a radial scale.
+- Customize a gauge to simulate a speedometer, temperature monitor, or dashboard.
+- Use built-in animation and interactive pointers that can be dragged from one place to another.
 
-This project is a starting point for a Flutter application.
+## How to run BMI Calculator
 
-A few resources to get you started if this is your first Flutter project:
+- Open your CLI and type :
+```
+git clone https://github.com/sami-rajichi/Tic-Tac-Toe-GUI.git
+```
+**OR** 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Download the repo by clicking on the `Code` button above, then click on download as `zip` and extract the `zip` file.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lastly, jump in to the extracted folder, and open it with your preferred `IDE`. 
+
+---------------------------------------------------------------------------------------------
+
+## Packages Used
+
+- syncfusion_flutter_gauges
+- flutter_neumorphic
+
+---------------------------------------------------------------------------------------------
+
+## Demo
+
+
+https://user-images.githubusercontent.com/59516997/179976355-83169891-bc77-48ee-8c67-148b55759ab1.mp4
+
+---------------------------------------------------------------------------------------------
+
+## How to reach me:
+
+- **LinedIn :** https://www.linkedin.com/in/sami-rajichi/
+- **Facebook :** https://www.facebook.com/rajichi.sami.5/
+- **WhatsApp :** +216 27944801
