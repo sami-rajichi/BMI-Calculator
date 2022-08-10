@@ -11,7 +11,7 @@ What might make difference here, is that I integrate a customized [Radial Gauge]
 
 - Open your CLI and type :
 ```
-git clone https://github.com/sami-rajichi/Tic-Tac-Toe-GUI.git
+git clone https://github.com/sami-rajichi/BMI-Calculator.git
 ```
 **OR** 
 
